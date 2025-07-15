@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+}
+body {
+  background-color: antiquewhite;
+}
+
+h2 {
+  color: rgb(74, 82, 79);
+}
+
+a {
+  background-color: rgb(57, 57, 61);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+a:houver {
+  background-color: darkblue;
+  color: yellow;
+}
